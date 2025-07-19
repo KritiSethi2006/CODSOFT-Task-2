@@ -5,11 +5,11 @@ Student Grade Calculator — Java Console Application
 
 This repository contains a Java-based console application that calculates academic grades based on user-entered marks. Developed as part of the CodSoft Internship Task 2, this project demonstrates basic programming proficiency, featuring clean logic and structured input/output handling.
 
-⚙️Features
+⚙️ Features:-
 
-🔹Accepts marks for multiple subjects from the user.
+🔹 Accepts marks for multiple subjects from the user.
 
-🔹Calculates:  
+🔹 Calculates:  
 
   - Total and average marks
 
@@ -21,10 +21,10 @@ This repository contains a Java-based console application that calculates academ
 
   - Includes input validation to handle invalid scores.
 
-🔹Displays formatted output with results and grade assessment.
+🔹 Displays formatted output with results and grade assessment.
 
-🔹Includes input validation to handle invalid scores.
+🔹 Includes input validation to handle invalid scores.
 
-⚙️Technologies Used
+💻 Technologies Used
 
-- Java Language
+• Java Language
